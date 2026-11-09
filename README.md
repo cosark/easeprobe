@@ -22,6 +22,7 @@ EaseProbe is a simple, standalone, and lightweight tool that can do health/statu
   - [2.2 Configure](#22-configure)
   - [2.3 Run](#23-run)
 - [3. Deployment](#3-deployment)
+  - [3.1 One-Click Deploy](#31-one-click-deploy)
 - [4. User Manual](#4-user-manual)
 - [5. Benchmark](#5-benchmark)
 - [6. Contributing](#6-contributing)
@@ -151,6 +152,10 @@ $ build/bin/easeprobe -f config.yaml
 EaseProbe can be deployed by Systemd, Docker, Docker-Compose, & Kubernetes.
 
 You can find the details in [Deployment Guide](./docs/Deployment.md)
+
+## 3.1 One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/EaseProbe/)
 
 # 4. User Manual
 
